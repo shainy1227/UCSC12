@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hello 
-=======
-Hello world
->>>>>>> 9573a2c8655347096ea10a7e1c3e2500f67e84b2
+Hello
